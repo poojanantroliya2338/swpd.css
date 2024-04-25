@@ -1,0 +1,198 @@
+body{
+    background-color: antiquewhite;
+}
+
+#a
+{
+    border: none;
+    width: 1000px;
+    height: 700px;
+   
+}
+#b
+{
+    border: solid black;
+    width: 1000px;
+    height: 80px;
+    background-color: rgb(36, 137, 154);
+}
+#c
+{
+    position: relative;
+    left: 869px;
+    top: 10px;
+    text-decoration: none;
+    color: white;
+}
+#d
+{
+    position: relative;
+    left: 730px;
+    bottom: 38px;
+    text-decoration: none;
+    color: white;
+}
+#e
+{
+    position: relative;
+    left: 625px;
+    bottom: 85px;
+    text-decoration: none;
+    color: white;
+}
+#f
+{
+    position: relative;
+    left: 515px;
+    bottom: 133px;
+    text-decoration: none;
+    color: white;
+}
+#g
+{
+    position: relative;
+    top: 5px;
+    border: solid black;
+    width: 350px;
+    height: 600px;
+    background-color: black;
+    
+}
+#h
+{
+  border: solid rgb(255, 254, 254);
+  border-radius: 50%;
+  position: relative;
+  left: 90px;
+  top: 30px;
+  width: 160px;
+  height: 160px;
+}
+#i
+{
+    color: rgb(255, 252, 252);
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+    left: 90px;
+}
+#j
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+    top: 0px;
+    left: 130px;
+}
+#k
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+    bottom: 15px;
+    left: 130px;
+}
+#l
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+    bottom: 35px;
+    left: 120px;
+}
+#m
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+    bottom: 50px;
+    left: 122px;
+}
+#n
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+    bottom: 70px;
+    left: 120px;
+}
+#o
+{
+   position: relative;
+   left: 365px;
+   bottom: 621px;
+   background-color: rgb(255, 255, 255);
+   width: 640px;
+   height: 400px;
+}
+#p
+{
+    position: relative;
+    left: 20px;
+}
+#q
+{
+    position: relative;
+    left: 20px;
+}
+#r
+{
+    position: relative;
+    left: 20px;
+}
+#s
+{
+    position: relative;
+    left: 20px;
+}
+#t
+{
+    position: relative;
+    left: 20px;
+}
+#u
+{
+    position: relative;
+    left: 20px;
+}
+#v
+{
+    position: relative;
+    left: 20px;
+}
+#w
+{
+    position: relative;
+    left: 20px;
+}
+#x
+{
+    position: relative;
+    left: 20px;
+}
+
+#y
+{
+    position: relative;
+    left: 365px;
+    bottom:630px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    width: 640px;
+    height: 190px;
+}
+#z
+{
+    position: relative;
+    left: 20px;
+}
+#ab
+{
+    position: relative;
+    left: 20px;
+}
+#ac 
+{
+  position: relative;
+  left: 20px;
+}
